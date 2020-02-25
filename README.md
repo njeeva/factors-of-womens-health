@@ -2,13 +2,13 @@
 
 Using data from the [CDC](https://www.cdc.gov/nchs/maternal-mortality/MMR-2018-State-Data-508.pdf) and the [The Henry J. Kaiser Family Foundation](https://www.kff.org/state-category/womens-health/), an analysis of various factors including percentage of women aged 19-65 who are uninsured, percentage of women without a primary care physician, racial demographics, number of heart disease deaths, and maternal mortality rates from each state was conducted. The impact of each of these factors on the percentage of women who report poor of fair health in each state was determined. The effect of two of the variable evaluated, the nuber of heart disease death and maternal mortality rates, on this percentage is seen below. These variables were chosen since heart disease is the leading cause of death of women in the United States, and maternal mortality rates have been climbing at an alarming pace these last few decades.
 
-[Heart disease](https://github.com/njeeva/factors-of-womens-health/blob/master/Heart%20Disease%20and%20Health%20Status.JPG)
+![Heart disease](https://github.com/njeeva/factors-of-womens-health/blob/master/Heart%20Disease%20and%20Health%20Status.JPG)
 
-[Maternal Mortality](https://github.com/njeeva/factors-of-womens-health/blob/master/Maternal%20Mortality%20and%20Health%20Status%20by%20State.JPG)
+![Maternal Mortality](https://github.com/njeeva/factors-of-womens-health/blob/master/Maternal%20Mortality%20and%20Health%20Status%20by%20State.JPG)
 
 A number of regression models were run, with the final yielding an R square value of 0.707 and a standard error of 0.017. The F significance value was 2.14 x 10^-5. A table with each variable's coefficient, standard error and p-value can be seen below.
 
-[Results](https://github.com/njeeva/factors-of-womens-health/blob/master/Results.JPG)
+![Results](https://github.com/njeeva/factors-of-womens-health/blob/master/Results.JPG)
 
 
 ### Step by Step Analysis

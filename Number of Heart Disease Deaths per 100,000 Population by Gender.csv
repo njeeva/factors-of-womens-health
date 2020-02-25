@@ -1,0 +1,63 @@
+﻿"Title: Number of Heart Disease Deaths per 100,000 Population by Gender | The Henry J. Kaiser Family Foundation",,
+Timeframe: 2017,,
+Location,Male,Female
+United States,209,129.6
+Alabama,283,175.5
+Alaska,172.5,99.4
+Arizona,178.4,109.8
+Arkansas,277.8,178.9
+California,181.2,111.4
+Colorado,153.1,97.4
+Connecticut,178.5,113.4
+Delaware,197.1,127.3
+District of Columbia,243.5,149.2
+Florida,186.2,111.6
+Georgia,225.6,137.2
+Hawaii,176,90.6
+Idaho,203.4,127.5
+Illinois,208,128.3
+Indiana,235.7,141.9
+Iowa,213.6,131
+Kansas,198.4,125
+Kentucky,248.1,153.6
+Louisiana,271.5,169.6
+Maine,183.3,111.6
+Maryland,208.3,130.8
+Massachusetts,178.4,102.4
+Michigan,245.9,155.7
+Minnesota,155.8,89.5
+Mississippi,293.8,182.3
+Missouri,242.2,150.6
+Montana,194,121
+Nebraska,191.1,115.4
+Nevada,252.1,151.9
+New Hampshire,190,116.8
+New Jersey,207.3,128.2
+New Mexico,192.1,116.9
+New York,213.2,138.7
+North Carolina,202.2,121.4
+North Dakota,176.4,106.7
+Ohio,233.3,148.4
+Oklahoma,290.4,192.4
+Oregon,168.1,105.5
+Pennsylvania,223.4,139.3
+Rhode Island,198.2,124.3
+South Carolina,222.7,131
+South Dakota,190.8,115.9
+Tennessee,256.9,158.1
+Texas,215.3,131.5
+Utah,175.3,127.8
+Vermont,206.2,110
+Virginia,195.6,122.1
+Washington,178.4,106.1
+West Virginia,235.5,155.8
+Wisconsin,204.6,119.8
+Wyoming,190.3,114.4
+,,
+Notes,,
+"Age-adjusted rates per 100,000 U.S. standard population. Since death rates are affected by the population composition of a given area, age-adjusted death rates should be used for comparisons between areas because they control for differences in population composition.",,
+,,
+Causes of death attributable to heart disease mortality include ICD-10 Codes I00-I02;I05-I09; I11.0;I11.9;I13.0-I13.2;I13.9;I20-I28;I30-I51.,,
+,,
+Sources,,
+"Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death 1999-2017 on [CDC WONDER Online Database](http://wonder.cdc.gov/), released 2018. Data are from the Multiple Cause of Death Files, 1999-2017, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/ucd-icd10.html on February 11, 2019.",,

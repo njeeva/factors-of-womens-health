@@ -28,7 +28,7 @@ As a whole, in order to address women's health issues throughout the United Stat
   
  2. Then, in the first spreadsheet, with each state in the first column and corresponding Health Status in the second, append the additional data from the new spreadsheets with the VLOOKUP tool.
  
- 3. Using the [CDC maternal mortality rates per state]((https://www.cdc.gov/nchs/maternal-mortality/MMR-2018-State-Data-508.pdf), fill in an additional column on the spreadsheet. This data set does not have information for every state. Remove all the states without maternal mortality data.
+ 3. Using the [CDC maternal mortality rates per state](https://www.cdc.gov/nchs/maternal-mortality/MMR-2018-State-Data-508.pdf), fill in an additional column on the spreadsheet. This data set does not have information for every state. Remove all the states without maternal mortality data.
  
  4. Run a linear regression model with Excel using the data analysis toolkit on all the data points with a complete data.
  

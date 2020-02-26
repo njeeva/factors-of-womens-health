@@ -2,7 +2,7 @@
 
 Using data from the [CDC](https://www.cdc.gov/nchs/maternal-mortality/MMR-2018-State-Data-508.pdf) and the [The Henry J. Kaiser Family Foundation](https://www.kff.org/state-category/womens-health/), a linear regression analysis of various factors including percentage of women aged 19-65 who are uninsured, percentage of women without a primary care physician, racial demographics, number of heart disease deaths, and maternal mortality rates from each state was conducted. 
 
-The impact of each of these factors on the percentage of women who report poor or fair health in each state was determined. The effect of two of the variable evaluated, the nuber of heart disease death and maternal mortality rates, on this percentage is seen below. These variables were chosen since heart disease is the leading cause of death of women in the United States, and maternal mortality rates have been climbing at an alarming pace these last few decades.
+The impact of each of these factors on the percentage of women who report poor or fair health in each state was determined. The effect of two of the variables evaluated, the number of heart disease deaths and maternal mortality rates, on this percentage is seen below. These variables were chosen since heart disease is the leading cause of death of women in the United States, and maternal mortality rates have been climbing at an alarming pace these last few decades.
 
 ![Heart disease](https://github.com/njeeva/factors-of-womens-health/blob/master/Heart%20Disease%20and%20Health%20Status.JPG)
 
